@@ -14,8 +14,8 @@ Nama kelompok:
 ANALISIS KEBUTUHAN ARSIP DIGITAL SANGGAR TARI
 
 
+
 1. Daftar Jenis Data yang Dibutuhkan
-Sanggar tari memiliki 7 jenis data utama yang harus diarsipkan:
 1. Video Pertunjukan dan Pentas
 2. Video Latihan dan Tutorial
 3. Audio Musik Pengiring Gamelan
@@ -24,63 +24,63 @@ Sanggar tari memiliki 7 jenis data utama yang harus diarsipkan:
 6. Dokumen Administrasi Sanggar
 7. Aset Desain Grafis dan Publikasi
 
-2. Karakteristik Tiap Jenis Data (Kerangka 6 Pertanyaan: Apa, Mengapa, Di Mana, Kapan, Siapa, Bagaimana)
+2. Karakteristik Tiap Jenis Data
 
-a. Video Pertunjukan dan Pentas
-Apa: Rekaman lengkap tari Legong, Kecak, Pendet di atas panggung dengan resolusi tinggi.
-Mengapa: Sebagai arsip budaya yang tidak tergantikan, untuk promosi dan evaluasi gerakan.
-Di Mana: Diambil di panggung atau tempat acara pentas.
-Kapan: Hanya saat ada acara pentas, tapi nilai arsipnya selamanya.
-Siapa: Pelatih inti, penari utama, dan perekam video.
-Bagaimana: Format MP4 atau MOV, ukuran sangat besar 2-4 GB per video, tidak boleh dikompres agar kualitas tetap bagus.
+a. Video Pertunjukan
+Apa: Rekaman lengkap tari di atas panggung
+Mengapa: Untuk arsip budaya, promosi, dan evaluasi
+Di Mana: Di panggung
+Kapan: Saat pentas
+Siapa: Pelatih dan perekam video
+Bagaimana: Format MP4/MOV, ukuran besar
 
-b. Video Latihan dan Tutorial
-Apa: Rekaman proses latihan harian dari awal sampai akhir.
-Mengapa: Untuk bahan belajar ulang bagi penari baru yang tertinggal.
-Di Mana: Di dalam sanggar tari.
-Kapan: Rutin setiap minggu, diakses sangat sering oleh murid.
-Siapa: Pelatih dan semua murid.
-Bagaimana: Format MP4 resolusi sedang 720p-1080p, ukuran 500 MB - 1 GB.
+b. Video Latihan
+Apa: Rekaman proses latihan harian
+Mengapa: Bahan belajar ulang penari baru
+Di Mana: Di sanggar
+Kapan: Rutin mingguan
+Siapa: Pelatih dan murid
+Bagaimana: Format MP4 resolusi sedang
 
-c. Audio Musik Pengiring Gamelan
-Apa: File rekaman musik gamelan, kendang, dan gong.
-Mengapa: Sumber utama irama tari, tanpa musik tari tidak bisa latihan.
-Di Mana: Direkam di studio rekaman.
-Kapan: Dibuat sekali, dipakai terus menerus bertahun-tahun.
-Siapa: Penabuh gamelan dan pelatih musik.
-Bagaimana: Format WAV untuk file master dan MP3 untuk latihan harian, ukuran 20-100 MB.
+c. Audio Musik
+Apa: File musik pengiring
+Mengapa: Sumber utama latihan
+Di Mana: Studio rekaman
+Kapan: Dibuat sekali, dipakai terus
+Siapa: Penabuh gamelan
+Bagaimana: Format WAV dan MP3
 
-d. Foto Dokumentasi Kostum dan Gerakan
-Apa: Foto detail kostum, detail rias wajah, dan pose-pose penting gerakan.
-Mengapa: Sebagai referensi bagi penjahit saat membuat kostum baru dan materi ajar.
-Di Mana: Di sanggar, ruang rias, dan belakang panggung.
-Kapan: Saat pembuatan kostum baru dan saat sebelum pentas.
-Siapa: Penjahit kostum, penari, dan fotografer.
-Bagaimana: Format JPG atau RAW, ukuran 5-15 MB per foto.
+d. Foto Dokumentasi
+Apa: Foto kostum, rias, pose
+Mengapa: Referensi kostum dan bahan ajar
+Di Mana: Sanggar dan belakang panggung
+Kapan: Saat buat kostum dan pentas
+Siapa: Penjahit dan fotografer
+Bagaimana: Format JPG/RAW
 
-e. Dokumen Koreografi dan Naskah Tari
-Apa: Catatan hitungan gerakan 1-8, gambar pola lantai, dan makna filosofi tari.
-Mengapa: Ini adalah kekayaan intelektual dan rahasia utama sanggar.
-Di Mana: Disimpan di kantor sanggar.
-Kapan: Dibuat saat pelatih menciptakan tari baru.
-Siapa: Hanya pelatih inti yang boleh akses.
-Bagaimana: Format PDF atau DOCX, ukuran kecil 2-10 MB tapi sangat vital dan rahasia.
+e. Dokumen Koreografi
+Apa: Catatan hitungan dan pola lantai
+Mengapa: Kekayaan utama sanggar
+Di Mana: Kantor sanggar
+Kapan: Saat cipta tari baru
+Siapa: Pelatih inti
+Bagaimana: Format PDF/DOCX, rahasia
 
-f. Dokumen Administrasi Sanggar
-Apa: Daftar anggota, laporan uang kas, jadwal latihan, surat izin pentas.
-Mengapa: Untuk keperluan operasional harian agar sanggar tetap berjalan.
-Di Mana: Di kantor pengurus sanggar.
-Kapan: Diperbarui setiap hari.
-Siapa: Pengurus dan bendahara sanggar.
-Bagaimana: Format PDF dan XLSX, ukuran kecil 1-3 MB.
+f. Administrasi
+Apa: Daftar anggota, keuangan, surat
+Mengapa: Operasional sanggar
+Di Mana: Kantor sanggar
+Kapan: Harian
+Siapa: Pengurus
+Bagaimana: Format PDF/XLSX
 
-g. Aset Desain Grafis dan Publikasi
-Apa: Desain poster pentas, banner, logo sanggar, dan template sertifikat.
-Mengapa: Untuk promosi acara di media sosial dan cetak.
-Di Mana: Dibuat di komputer desainer.
-Kapan: Saat akan ada acara pentas besar.
-Siapa: Tim publikasi dan desainer.
-Bagaimana: Format PSD, AI, dan JPG, ukuran 50-300 MB.
+g. Aset Desain
+Apa: Poster, banner, logo sanggar
+Mengapa: Untuk promosi acara
+Di Mana: Di komputer desainer
+Kapan: Saat ada pentas besar
+Siapa: Tim publikasi
+Bagaimana: Format PSD/AI/JPG
 
 3. Asumsi Jumlah Unit dan Ukuran Rata-rata
 Jenis Data	Jumlah Unit	Ukuran per Unit	Subtotal
@@ -97,5 +97,5 @@ Total Kebutuhan Bersih = 350.85 GB
 Cadangan Keamanan 30% = 105.25 GB
 TOTAL AKHIR YANG DIBUTUHKAN = 456.1 GB
 
-Rekomendasi: Siapkan media penyimpanan sebesar 500 GB sampai 1 TB. Bisa menggunakan Hardisk Eksternal 1 TB untuk arsip offline dan Google Drive 1 TB untuk cadangan online. Cadangan 30% ini penting untuk mengantisipasi video pentas baru di tahun depan.
+Rekomendasi: Siapkan media penyimpanan sebesar 500 GB sampai 1 TB. Bisa menggunakan Hardisk Eksternal 1 TB untuk arsip offline dan Google Drive 1 TB untuk cadangan online.
 
