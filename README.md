@@ -83,6 +83,7 @@ Siapa: Tim publikasi
 Bagaimana: Format PSD/AI/JPG
 
 3. Asumsi Jumlah Unit dan Ukuran Rata-rata
+Ini beb tabelnya aja, siap kopas. Pasti jadi tabel di GitHub:
 Jenis Data	Jumlah Unit	Ukuran per Unit	Subtotal
 Video Pentas	50 video	3 GB	150 GB
 Video Latihan	200 video	800 MB	160 GB
@@ -91,7 +92,6 @@ Foto Dokumentasi	2500 foto	8 MB	20 GB
 Dokumen Koreografi	50 file	5 MB	0.25 GB
 Administrasi	300 file	2 MB	0.6 GB
 Aset Desain	100 file	150 MB	15 GB
-4. Estimasi Total Penyimpanan Ditambah Cadangan 30 Persen
 
 Total Kebutuhan Bersih = 350.85 GB
 Cadangan Keamanan 30% = 105.25 GB
