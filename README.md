@@ -16,13 +16,13 @@ ANALISIS KEBUTUHAN ARSIP DIGITAL SANGGAR TARI
 1. Daftar Jenis Data yang Dibutuhkan
 Sanggar tari memiliki 7 jenis data utama yang harus diarsipkan:
 
-1. Video Pertunjukan dan Pentas
-2. Video Latihan dan Tutorial
-3. Audio Musik Pengiring Gamelan
-4. Foto Dokumentasi Kostum dan Gerakan
-5. Dokumen Koreografi dan Naskah Tari
-6. Dokumen Administrasi Sanggar
-7. Aset Desain Grafis dan Publikasi
+2. Video Pertunjukan dan Pentas
+3. Video Latihan dan Tutorial
+4. Audio Musik Pengiring Gamelan
+5. Foto Dokumentasi Kostum dan Gerakan
+6. Dokumen Koreografi dan Naskah Tari
+7. Dokumen Administrasi Sanggar
+8. Aset Desain Grafis dan Publikasi
 
 2. Karakteristik Tiap Jenis Data (Kerangka 6 Pertanyaan: Apa, Mengapa, Di Mana, Kapan, Siapa, Bagaimana)
 
